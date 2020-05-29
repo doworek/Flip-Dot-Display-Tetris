@@ -2,7 +2,7 @@
 
 The aim of this project was to interface a flip-dot display with ARM microcontroller (STM32) and use it to run a game "Tetris" written in C++. It can be controlled via serial monitor or external buttons.
 It required hours of reverse engineering and programming but definitely was worth it.
-
+Actually, this project was an assignement for "Microprocessor Technology" course and it became one of the awarded works in a contest for the most interesting project.
 A short video with project overview: https://drive.google.com/file/d/1UwqR071ZhoM5006fCu-O8h5sH24qAT7j/view?usp=sharing
 
 Parts used:
